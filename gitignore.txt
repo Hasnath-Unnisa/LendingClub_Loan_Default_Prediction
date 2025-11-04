@@ -1,0 +1,59 @@
+This file tells Git which files/folders not to upload to GitHub — such as datasets, checkpoints, and system files.
+
+Here’s a clean .gitignore tailored for a Jupyter Notebook + data project
+
+# OS / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (large or private)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.pkl
+*.sav
+*.h5
+*.db
+
+# Logs
+*.log
+
+# Reports and outputs
+*.pdf
+*.html
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+
+🧹 Purpose:
+
+Keeps your GitHub repo lightweight
+
+Prevents accidental upload of large datasets or cache files
+
+Makes cloning and reproducing your notebook clean and fast

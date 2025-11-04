@@ -1,0 +1,23 @@
+These are all the core Python packages used in your LendingClub Loan Analysis notebook (for preprocessing, visualization, and modeling):
+
+# Core libraries
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Notebook environment
+jupyter
+
+# Optional: For reproducibility or data management
+joblib
+
+📝 How to use it:
+When someone clones your repo, they can install all dependencies by running:
+
+pip install -r requirements.txt
