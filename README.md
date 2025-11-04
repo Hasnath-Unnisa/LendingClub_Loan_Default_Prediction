@@ -185,10 +185,11 @@ pip install -r requirements.txt
 jupyter notebook Source_Code/Lendingclub_Loan_Analysis.ipynb
 
 # Run all cells sequentially to reproduce the analysis and results
+```
 
 ## 👩‍💻 Author  
 
 **Name:** Hasnath Unnisa  
-**Email:** unnisahasnath@gmail.com  
-**LinkedIn:** www.linkedin.com/in/hasnath22  
+**Email:** [unnisahasnath@gmail.com](mailto:unnisahasnath@gmail.com)  
+**LinkedIn:** [linkedin.com/in/hasnath22](https://www.linkedin.com/in/hasnath22)
 
